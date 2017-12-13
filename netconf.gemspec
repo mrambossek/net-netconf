@@ -18,5 +18,4 @@ Gem::Specification.new do |s|
   s.add_dependency('nokogiri', '~> 1.6')
   s.add_dependency('net-ssh', '>= 4.2')
   s.add_dependency('net-scp', '~> 1.2')
-  s.add_development_dependency 'rake'
 end
